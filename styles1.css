@@ -2,17 +2,13 @@
 margin: 0px auto; color: 204920; font-size: 17px; background-color:B0CDB0;
 }
 #langbar{background-color: none; padding: 0px; border-style: none; }
-#langbar td{padding:0px; border-style: none; color: B0CDB0;}
+#langbar td{padding:0px; border-style: none; color: black;}
 #videogalery {
 margin: 0px auto; color: 204920; font-size: 17px; background-color:B0CDB0;
 }
 #Охота{
 margin: 0px auto; color: 204920; font-size: 17px; background-color:B0CDB0;
 }
-#Новости{
-margin: 0px auto; color: 204920;  background-color:white; border-style: grove;
-}
-#Новости td{text-align: center; padding:0px; border-style: grove; color: red; font-size: 20px; font-style: bolder}
 img 
 {
 width: 120px;
@@ -27,16 +23,16 @@ width: 40px;
 height: 20px;
 }
 td{
-	padding:0px; border-style: outset;
+	padding:0px; border-style: outset; background-color: 738CA6; color: 041D37;
 }
-.header{color: B0CDB0; text-align: right; margin-right: 10px; }
+.header{color: black; text-align: right; margin-right: 10px; }
 
 *{
 margin: 0px;
 padding: 0px;}
     
 body{
-background-image: url("ginger stag - Copy.jpg");
+background-image: url("fishingB.jpg");
 background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -56,5 +52,5 @@ background-repeat: no-repeat;
 	font-variant: normal;
 	font-weight: bold;
 	line-height: 17px;}
-.nav ul li a:hover{color: 40F140; background-color: 175917;}
+.nav ul li a:hover{color: 041D5A; background-color: 3B60BD;}
 .p{color: B0CDB0; text-align: right; margin-right: 10px; }
