@@ -1,3 +1,6 @@
+@-ms-viewport{
+  width: device-width;
+}
 #fotogalery{
 margin: 0px auto; color: 204920; font-size: 17px; background-color:B0CDB0;
 }
