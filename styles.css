@@ -1,6 +1,4 @@
-@-ms-viewport{
-  width: device-width;
-}
+
 #fotogalery{
 margin: 0px auto; color: 204920; font-size: 17px; background-color:B0CDB0;
 }
@@ -61,3 +59,6 @@ background-repeat: no-repeat;
 	line-height: 17px;}
 .nav ul li a:hover{color: 40F140; background-color: 175917;}
 .p{color: B0CDB0; text-align: right; margin-right: 10px; }
+@-ms-viewport{
+  width: device-width;
+}
