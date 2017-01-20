@@ -24,14 +24,14 @@ clear: both;}
 .mainheader nav ul li a:hover{color: 40F140; background-color: 175917;}
 
 .maincontent {line-height: 25px; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;}
-.content{width: 66%; float: left;  border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;}
+.content{width: 60%; float: left;  border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;}
 .content img{width: 120px; height: 100px;}
 .topcontent {background-color: #66ff99; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; padding: 3% 5%; margin-top: 2%;}
 .botomcontent {background-color: #66ff99; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; padding: 3% 5%; margin-top: 2%;}
 .postinfo{font-style: italic; color: gray; font-size: 85%;}
-.topsidebar{width: 25%; background-color: #66ff99; float: left; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; margin: 1.6% 0 2% 3%;padding: 1% 3%;}
+.topsidebar{width: 31%; background-color: #66ff99; float: left; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; margin: 1.6% 0 2% 3%;padding: 1% 3%;}
 .topsidebar img{width: 120px; height: 100px;}
-.midlesidebar{width: 25%; background-color: #66ff99; float: left; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; margin: 2% 0 2% 3%;padding: 1% 3%;}
+.midlesidebar{width: 31%; background-color: #66ff99; float: left; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; margin: 2% 0 2% 3%;padding: 1% 3%;}
 .botomsidebar{width: 25%; background-color: #66ff99; float: left; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; margin: 2% 0 2% 3%;padding: 1% 3%;}
 .mainfooter{width: 100%; height: 40px; float: left; background-image: url(08-Wood.jpg); background-position: left center;; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; margin-top: 2%; margin-bottom:2%;}
 .mainfooter p{width:94%; margin: 0 auto; padding-top: 1%; color: white;}
